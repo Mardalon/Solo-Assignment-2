@@ -17,7 +17,7 @@ cd Ordername
 git clone https://github.com/Mardalon/Solo-Assignment-2.git
 ```
 ```
-cd Solo-Assignment-1_Stufe_A
+cd Solo-Assignment-2
 ```
 - Abhängigkeiten installieren:
 ```
